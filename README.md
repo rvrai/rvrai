@@ -107,15 +107,6 @@
   ** 🔗 [https://play.google.com/store/apps/details?id=com.app.rupyz&hl=en_IN](https://play.google.com/store/apps/details?id=com.app.rupyz)
 
 
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rvrai&show_icons=true&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 📫 Connect
