@@ -93,7 +93,7 @@
   ** 🛠️Tech
       Kotlin, MVVM + Clean Architecture, Retrofit APIs, Room DB, Firebase, Coroutines + Flow
 
-  ** 🔗 [https://play.google.com/store/apps/details?id=com.shopify.shopifyapp](https://play.google.com/store/apps/details?id=com.shopify.shopifyapp)
+  ** 🔗 [https://play.google.com/store/apps/details?id=com.magenative.app](https://play.google.com/store/apps/details?id=com.magenative.app)
 
 * 🏦 **Rupyz**
 
